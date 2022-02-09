@@ -1,0 +1,5 @@
+yapı:
+  liman işçisi:
+      işçi: Dockerfile
+Çalıştırmak:
+   işçi: npm başlangıç
